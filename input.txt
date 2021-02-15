@@ -1,0 +1,10 @@
+Run Google Chrome
+Run Skype
+Alt+Tab
+Run Notepad
+Alt+Tab+Tab
+Run zoom
+Alt+Tab+Tab+Tab
+Run Calculator
+Run Zip
+Alt+Tab
